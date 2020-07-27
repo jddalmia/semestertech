@@ -1,0 +1,20 @@
+T1:
+
+Introduction to Discrete Mathematics and  Set Theory	Discrete Mathematics: A Brief Introduction, Set Notations, Cardinality of Sets; Some Standard Sets; Venn Diagrams; Operations on Sets; Principle of inclusion and exclusion; Disjoint Sets; Partition; Ordered Set; Cartesian Product of Sets; Algebra of Sets, Bit vector representation of sets.
+
+
+Relations	Domain and Range, Inverse of Relation, Composition of Relations, Different Types of Relations; Partial Order Relation; Hasse Diagram; Lattices; Pictorial or Graphical Representation of Relations; Matrix Representation of Relations; Closure of Relations. 
+
+
+Functions and Recursion	Relations vs. functions, Types of functions, composition of functions, Induction, Recursively defined functions, Cardinality, Modeling using Recurrence Relation, Solution of Recurrence Relations, Linear Recurrence Relation with Constant Coefficients.
+
+
+T2:
+
+Logics:  Proposition, Logical Operators, Tautology, Contradiction,  Logical Equivalence, Tautological Implication, Converse, Inverse, and Contrapositive, Normal Forms, Arguments validity check, Predicates, Methods of Proof. 
+ 
+Counting and Combinatorics:  Basic Counting Principle, Permutations and Combinations, Binomial Coefficients, Pigeonhole principle. 
+ 
+Algebraic Structures :  Binary Operations: semi-group, group; Subgroup: Cosets; Ring; Field; Boolean algebra; Binary Arithmetic.
+ 
+
