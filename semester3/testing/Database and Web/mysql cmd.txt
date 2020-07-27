@@ -1,0 +1,2 @@
+C:\> mysql -u root -p
+pass: test123
