@@ -33,7 +33,7 @@ body
 {
   margin:0px;
   padding:0px;
- 
+  font-family: 'Dancing Script', cursive;
   background-image:url('game-bg.png');
    background-size: cover;
   
@@ -419,15 +419,40 @@ background-position: 100%;
  text-align: center;
   
   
-
 }
 @media only screen and (max-width: 500px) {
   .sem{
 
     display: inline-block;
-   margin: 1rem 60px;
+   margin: 1rem 90px;
     
-    
-  
   }
+   .tut{
+    background-color: rgba(255, 255, 255, 0.52);
+   display: inline-block;
+    border-radius: 30px;
+    box-shadow: 10px 10px 15px rgba(73, 78, 92, 0.5);
+    margin: 10px;
+    padding: 10px;
+  }
+  
+   
+}
+.tut{
+  background-color:transparent;
+ display: inline-block;
+  border-radius: 30px;
+  box-shadow: 10px 10px 15px rgba(73, 78, 92, 0.5);
+  margin: 10px;
+  padding: 15px;
+}
+
+.set{
+  color: #1f2429;
+  padding: 5px;
+  font-size: 25px;
+  display: inline-block;
+}
+.set:hover{
+  color: rgba(255, 255, 255, 0.801);
 }
