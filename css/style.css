@@ -8367,6 +8367,7 @@ h1, h2, h3, h4, h5,
   z-index: 0; 
 text-align: center;}
   .services-wrap:after {
+    border-radius: 20px;
     position: absolute;
     top: 0;
     left: 0;
