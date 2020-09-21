@@ -728,6 +728,9 @@ section {
 .services .icon-box:hover h4 a {
   color: #d9232d;
 }
+.services .icon-box:hover h4 a:hover {
+  color: #18d26e;
+}
 
 /*--------------------------------------------------------------
 # Portfolio
